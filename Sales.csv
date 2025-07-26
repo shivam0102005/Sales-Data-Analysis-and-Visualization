@@ -1,0 +1,91 @@
+Date,Product,Category,Units_Sold,Unit_Price,Total_Sales,Profit
+2025-06-01,Shampoo,Personal Care,30,120,3600,700
+2025-06-01,Bread,Grocery,50,40,2000,400
+2025-06-01,Notebook,Stationery,20,50,1000,250
+2025-06-02,Toothpaste,Personal Care,20,60,1200,200
+2025-06-02,Rice,Grocery,40,90,3600,800
+2025-06-02,Pen,Stationery,100,10,1000,250
+2025-06-03,Milk,Dairy,60,30,1800,600
+2025-06-03,Cheese,Dairy,15,200,3000,750
+2025-06-03,Lotion,Personal Care,10,250,2500,500
+2025-06-04,Biscuits,Grocery,45,30,1350,300
+2025-06-04,Eraser,Stationery,80,5,400,100
+2025-06-04,Yogurt,Dairy,25,60,1500,450
+2025-06-05,Bath Soap,Personal Care,35,75,2625,550
+2025-06-05,Pasta,Grocery,38,90,3420,700
+2025-06-05,Marker,Stationery,30,20,600,180
+2025-06-06,Butter,Dairy,20,100,2000,500
+2025-06-06,Hair Oil,Personal Care,15,180,2700,600
+2025-06-06,Cookies,Grocery,60,25,1500,350
+2025-06-07,File Folder,Stationery,20,80,1600,400
+2025-06-07,Curd,Dairy,30,40,1200,300
+2025-06-07,Face Wash,Personal Care,18,150,2700,700
+2025-06-08,Tea,Grocery,55,35,1925,500
+2025-06-08,Pencil,Stationery,90,8,720,200
+2025-06-08,Paneer,Dairy,28,90,2520,600
+2025-06-09,Conditioner,Personal Care,22,160,3520,800
+2025-06-09,Noodles,Grocery,40,45,1800,400
+2025-06-09,Stapler,Stationery,35,35,1225,250
+2025-06-10,Ghee,Dairy,18,300,5400,900
+2025-06-10,Sunscreen,Personal Care,25,220,5500,1100
+2025-06-10,Jam,Grocery,30,80,2400,600
+2025-06-11,Scissors,Stationery,40,30,1200,300
+2025-06-11,Lassi,Dairy,50,25,1250,250
+2025-06-11,Body Wash,Personal Care,20,200,4000,900
+2025-06-12,Sugar,Grocery,60,40,2400,500
+2025-06-12,Glue,Stationery,25,15,375,100
+2025-06-12,Ice Cream,Dairy,35,60,2100,450
+2025-06-13,Talcum Powder,Personal Care,15,140,2100,600
+2025-06-13,Cornflakes,Grocery,33,75,2475,500
+2025-06-13,Highlighter,Stationery,28,25,700,150
+2025-06-14,Paneer,Dairy,40,90,3600,700
+2025-06-14,Shaving Cream,Personal Care,18,160,2880,650
+2025-06-14,Pickle,Grocery,25,100,2500,550
+2025-06-15,Tape,Stationery,50,12,600,150
+2025-06-15,Milk,Dairy,75,30,2250,750
+2025-06-15,Hair Gel,Personal Care,12,190,2280,520
+2025-06-16,Chips,Grocery,70,25,1750,400
+2025-06-16,File Folder,Stationery,35,80,2800,650
+2025-06-16,Curd,Dairy,30,40,1200,300
+2025-06-17,Face Wash,Personal Care,20,150,3000,800
+2025-06-17,Tea,Grocery,60,35,2100,500
+2025-06-17,Eraser,Stationery,70,5,350,90
+2025-06-18,Butter,Dairy,22,100,2200,520
+2025-06-18,Body Lotion,Personal Care,14,230,3220,750
+2025-06-18,Rice,Grocery,35,90,3150,700
+2025-06-19,Notebook,Stationery,40,50,2000,480
+2025-06-19,Lassi,Dairy,45,25,1125,250
+2025-06-19,Bath Soap,Personal Care,25,75,1875,450
+2025-06-20,Biscuits,Grocery,55,30,1650,350
+2025-06-20,Glue Stick,Stationery,20,20,400,110
+2025-06-20,Milk,Dairy,60,30,1800,600
+2025-06-21,Lip Balm,Personal Care,10,180,1800,420
+2025-06-21,Pasta,Grocery,45,90,4050,850
+2025-06-21,Scissors,Stationery,15,30,450,120
+2025-06-22,Yogurt,Dairy,35,60,2100,500
+2025-06-22,Conditioner,Personal Care,19,160,3040,600
+2025-06-22,Jam,Grocery,32,80,2560,700
+2025-06-23,Marker,Stationery,50,20,1000,240
+2025-06-23,Ghee,Dairy,20,300,6000,1000
+2025-06-23,Shampoo,Personal Care,28,120,3360,600
+2025-06-24,Pickle,Grocery,30,100,3000,700
+2025-06-24,Notebook,Stationery,30,50,1500,350
+2025-06-24,Butter,Dairy,15,100,1500,400
+2025-06-25,Toothpaste,Personal Care,22,60,1320,300
+2025-06-25,Tea,Grocery,50,35,1750,400
+2025-06-25,Pencil,Stationery,60,8,480,140
+2025-06-26,Paneer,Dairy,25,90,2250,480
+2025-06-26,Sunscreen,Personal Care,12,220,2640,650
+2025-06-26,Jam,Grocery,25,80,2000,480
+2025-06-27,Stapler,Stationery,20,35,700,160
+2025-06-27,Curd,Dairy,40,40,1600,350
+2025-06-27,Face Wash,Personal Care,16,150,2400,600
+2025-06-28,Sugar,Grocery,48,40,1920,460
+2025-06-28,Glue,Stationery,35,15,525,130
+2025-06-28,Ice Cream,Dairy,30,60,1800,420
+2025-06-29,Talcum Powder,Personal Care,20,140,2800,700
+2025-06-29,Noodles,Grocery,30,45,1350,300
+2025-06-29,Pen,Stationery,100,10,1000,300
+2025-06-30,Milk,Dairy,65,30,1950,700
+2025-06-30,Bread,Grocery,60,40,2400,550
+2025-06-30,Body Wash,Personal Care,18,200,3600,800
